@@ -17,7 +17,7 @@
 - [Task Management System](https://github.com/your-task-management-repo)
 
 ### 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/ankit-rawat-582744320/)
+- [LinkedIn](https://www.linkedin.com/in/ankit-singh-rawat-582744320/)
 - [Email](mailto:anikitrawat9756585534@gmail.com)
 
 ---
