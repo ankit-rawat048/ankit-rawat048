@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Ankit Singh Rawat!
 
-<!--
-**ankit-rawat048/ankit-rawat048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🔭 Full Stack Developer | Frontend Focused
+- 🎓 BCA Student (6th Semester) at Himalayan Institute of Technology
+- 🎨 Passionate about Web Development & Animation
+- 🏀 Basketball Enthusiast
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools
+- Frontend: HTML, CSS, JavaScript, React.js
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Other: Git, GitHub, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Projects
+- [Portfolio Website](https://ankit-rawat048.github.io/react-portfolio/)
+- [Task Management System](https://github.com/your-task-management-repo)
+
+### 🌐 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/ankit-rawat-582744320/)
+- [Email](mailto:anikitrawat9756585534@gmail.com)
+
+---
+
+⭐️ *Always open to collaborating on interesting projects and learning new things!*
+
