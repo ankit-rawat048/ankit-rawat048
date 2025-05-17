@@ -14,7 +14,7 @@
 
 ### 📚 Projects
 - [Portfolio Website](https://ankit-rawat048.github.io/react-portfolio/)
-- [Photo-Storing-tool].(https://photo-storing-app.vercel.app/)
+- [Photo Storing Tool](https://photo-storing-app.vercel.app/)
 - [Task Management System](https://github.com/your-task-management-repo)
 
 ### 🌐 Connect With Me
