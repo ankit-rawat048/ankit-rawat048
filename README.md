@@ -13,6 +13,7 @@
 - Other: Git, GitHub, 
 
 ### 📚 Projects
+- [Chakra | Rishikesh](https://112chakras.info//)
 - [Hotel Sunrise Website official](https://hotelsunrise.in/)
 - [Shriganga Herbal E-commerce website](https://shrigangaherbal.com/)
 - [Portfolio Website](https://ankit-rawat048.github.io/react-portfolio/)
