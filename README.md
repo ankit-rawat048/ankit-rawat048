@@ -13,6 +13,7 @@
 - Other: Git, GitHub, 
 
 ### 📚 Projects
+- [Adiyogi Gurukul](http://adiyogigurukul.in/)
 - [Chakra | Rishikesh](https://112chakras.info//)
 - [Hotel Sunrise Website official](https://hotelsunrise.in/)
 - [Shriganga Herbal E-commerce website](https://shrigangaherbal.com/)
