@@ -13,6 +13,7 @@
 - Other: Git, GitHub, 
 
 ### 📚 Projects
+- [Mimamsa Yoga Shala](https://mimamsayogashala.com/)
 - [Adiyogi Gurukul](http://adiyogigurukul.in/)
 - [Chakra | Rishikesh](https://112chakras.info//)
 - [Hotel Sunrise Website official](https://hotelsunrise.in/)
