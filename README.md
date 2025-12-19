@@ -13,6 +13,7 @@
 - Other: Git, GitHub, 
 
 ### 📚 Projects
+- [Medgallant Panels](https://onlineyoga.medgallant.com/)
 - [Mimamsa Yoga Shala](https://mimamsayogashala.com/)
 - [Adiyogi Gurukul](http://adiyogigurukul.in/)
 - [Chakra | Rishikesh](https://112chakras.info//)
