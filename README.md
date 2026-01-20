@@ -13,17 +13,17 @@
 - Other: Git, GitHub, 
 
 ### 📚 Projects
-- [MakeupBYEkta](https://makeupwithekta.in/)
-- [Hibridyttc yoga](https://hybridyttc.yoga/)
-- [Medgallant Panels](https://onlineyoga.medgallant.com/)
-- [Mimamsa Yoga Shala](https://mimamsayogashala.com/)
-- [Adiyogi Gurukul](http://adiyogigurukul.in/)
-- [Chakra | Rishikesh](https://112chakras.info//)
-- [Hotel Sunrise Website official](https://hotelsunrise.in/)
-- [Shriganga Herbal E-commerce website](https://shrigangaherbal.com/)
-- [Portfolio Website](https://ankit-rawat048.github.io/react-portfolio/)
-- [Photo Storing Tool](https://photo-storing-app.vercel.app/)
-- [Task Management System](https://task-mangement-app-orpin.vercel.app/dashboard)
+- [MakeupBYEkta-2025](https://makeupwithekta.in/)
+- [Hibridyttc yoga-2026](https://hybridyttc.yoga/)
+- [Medgallant Panels-2025](https://onlineyoga.medgallant.com/)
+- [Mimamsa Yoga Shala-2025](https://mimamsayogashala.com/)
+- [Adiyogi Gurukul-2025](http://adiyogigurukul.in/)
+- [Chakra | Rishikesh-2025](https://112chakras.info//)
+- [Hotel Sunrise Website official-2025](https://hotelsunrise.in/)
+- [Shriganga Herbal E-commerce website-2025](https://shrigangaherbal.com/)
+- [Portfolio Website-2025](https://ankit-rawat048.github.io/react-portfolio/)
+- [Photo Storing Tool-2025](https://photo-storing-app.vercel.app/)
+- [Task Management System-2025](https://task-mangement-app-orpin.vercel.app/dashboard)
 
 ### 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/ankit-singh-rawat-582744320/)
