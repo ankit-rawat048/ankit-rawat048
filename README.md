@@ -13,6 +13,7 @@
 - Other: Git, GitHub, 
 
 ### 📚 Projects
+- [MakeupBYEkta](https://makeupwithekta.in/)
 - [Hibridyttc yoga](https://hybridyttc.yoga/)
 - [Medgallant Panels](https://onlineyoga.medgallant.com/)
 - [Mimamsa Yoga Shala](https://mimamsayogashala.com/)
