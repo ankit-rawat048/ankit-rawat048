@@ -13,6 +13,7 @@
 - Other: Git, GitHub, 
 
 ### 📚 Projects
+- [Hibridyttc yoga](https://hybridyttc.yoga/)
 - [Medgallant Panels](https://onlineyoga.medgallant.com/)
 - [Mimamsa Yoga Shala](https://mimamsayogashala.com/)
 - [Adiyogi Gurukul](http://adiyogigurukul.in/)
