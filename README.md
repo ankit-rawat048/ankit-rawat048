@@ -13,6 +13,7 @@
 - Other: Git, GitHub, 
 
 ### 📚 Projects
+- [Hybrid Teacher Training Course-2026](https://hybirdyttc.yoga/)
 - [Mimamsayoga-2026](https://www.mimamsayoga.com/)
 - [MakeupBYEkta-2026](https://makeupwithekta.in/)
 - [Hibridyttc yoga-2026](https://hybridyttc.yoga/)
