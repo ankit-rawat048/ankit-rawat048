@@ -13,6 +13,7 @@
 - Other: Git, GitHub, 
 
 ### 📚 Projects
+- [Rishikesh Live-2026](https://github.com/ankit-rawat048/rishikeshLive)
 - [Hybrid Teacher Training Course-2026](https://hybirdyttc.yoga/)
 - [Mimamsayoga-2026](https://www.mimamsayoga.com/)
 - [MakeupBYEkta-2026](https://makeupwithekta.in/)
