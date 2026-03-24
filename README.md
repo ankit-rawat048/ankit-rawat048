@@ -13,6 +13,7 @@
 - Other: Git, GitHub, 
 
 ### 📚 Projects
+- [ Bajrang Setu-2026](https://bajarangsetu.com/)
 - [ Rishikesh Live-2026](https://rishikeshlive.com/)
 - [Social Rishikesh Live-2026](https://social.rishikeshlive.com/)
 - [Hybrid Teacher Training Course-2026](https://hybirdyttc.yoga/)
