@@ -13,6 +13,7 @@
 - Other: Git, GitHub, 
 
 ### 📚 Projects
+- [ Sanskriti Yogpeeth-2026](https://sanskritiyogpeeth.org/)
 - [ HariomYogshala-2026](https://hariomyogashala.com/)
 - [ Bajrang Setu-2026](https://bajarangsetu.com/)
 - [ Rishikesh Live-2026](https://rishikeshlive.com/)
